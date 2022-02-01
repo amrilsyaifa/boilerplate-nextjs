@@ -20,6 +20,7 @@
       "@config/*": ["./src/config/*"],
       "@lib/*": ["./src/lib/*"],
       "@modules/*": ["./src/modules/*"],
+      "@pages/*": ["./src/pages/*"],
       "@services/*": ["./src/services/*"],
       "@styles/*": ["./src/styles/*"]
     }
