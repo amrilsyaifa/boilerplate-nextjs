@@ -1,0 +1,9 @@
+@use '@styles/Variables';
+
+.sidebar-container {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  background-color: Variables.$black;
+  color: Variables.$white;
+}
